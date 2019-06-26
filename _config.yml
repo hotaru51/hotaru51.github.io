@@ -1,0 +1,11 @@
+title: hotaru51.com
+description: >- # this means to ignore newlines until "baseurl:"
+  hotaru51.com web site.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.hotaru51.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter: htr_szkn51
+github:  hotaru51
+qiita:  hotaru51
+
+# Build settings
+markdown: kramdown
