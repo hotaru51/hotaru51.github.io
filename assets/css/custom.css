@@ -1,0 +1,60 @@
+@charset "utr-8";
+
+body {
+    font-family: "Noto Sans JP";
+}
+
+.container {
+    margin: 0 auto 0 auto;
+    max-width: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header a, nav a {
+    color: black;
+}
+
+header a:hover {
+    color: black;
+}
+
+header h1, h2, nav {
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav li a {
+    font-size: 1.3em
+}
+
+main h2 {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.content {
+    margin: 0 10% 0 10%;
+    font-size: 1.2em;
+}
+
+.avater {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.avater img {
+    border-radius: 50%;
+    width: 25%;
+    min-width: 150px
+}
